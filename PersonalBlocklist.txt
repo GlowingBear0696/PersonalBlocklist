@@ -1,9 +1,8 @@
 # Personal Blocklist by GlowingBear0696
 
 # Ads
-afcdn.net
-aucdn.net
-cdn.bncloudfl.com
-creative.xlivrdr.com
 s3t3d2y8.afcdn.net
-strpst.com
+u3y8v8u4.aucdn.net
+img.strpst.com
+creative.xlivrdr.com
+cdn.bncloudfl.com
